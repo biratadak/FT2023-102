@@ -1,0 +1,15 @@
+{
+    "autoload": {
+        "psr-4": {
+          "App\\": "FT2023-102/",
+          "App\\classes\\": "classes"
+        }
+      },
+    "require": {
+        "vlucas/phpdotenv": "^5.5",
+        "guzzlehttp/guzzle": "^7.5",
+        "phpmailer/phpmailer": "^6.8",
+        "hybridauth/hybridauth": "^3.9"
+    }
+}
+ 
