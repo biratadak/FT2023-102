@@ -1,0 +1,11 @@
+# Remove Credentials from git
+.env
+
+# Remove used icons from git
+icons/
+
+# Remove composer installed packeges from git
+vendor/
+
+# Remove public assets from git
+public/
